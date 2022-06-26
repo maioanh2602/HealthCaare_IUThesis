@@ -1,0 +1,14 @@
+node_modules
+build
+all-logs.log
+requirement.txt
+exceptions.log
+src/log
+.env
+.idea
+dist
+.idea/
+uploads
+coverage
+.vscode/*
+package-lock.json
